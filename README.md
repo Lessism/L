@@ -1,3 +1,3 @@
-# Project
-Study
+# Blog
+
 Tutorial
